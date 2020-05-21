@@ -1,6 +1,10 @@
 # Graphics Final Project 
 ### Amanda Chen (Period 10)
 
+## Adding Existing MDL Commands
+  * light
+     * Add a light to the symbol table
+     * When calculating diffuse and specular: loop through all the lights
 ## Modified Existing MDL Commands
   * New Primitive Shapes:
     * Cone
